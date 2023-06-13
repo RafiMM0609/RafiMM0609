@@ -6,6 +6,7 @@ Currently learning about machine learning, but I love learn new thing in program
     <img src="https://img.shields.io/badge/IDE-Arduino-blue?&logo=arduino" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white />"
 </p>
 
 ### Stats:
