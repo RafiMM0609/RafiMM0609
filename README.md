@@ -4,7 +4,6 @@ Currently learning about machine learning, but I love learn new thing in program
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/IDE-Arduino-blue?&logo=arduino" />
-    <img src="https://img.shields.io/badge/Node.js?&logo=java" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
