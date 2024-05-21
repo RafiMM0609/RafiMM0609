@@ -1,0 +1,185 @@
+{
+  "workbench.colorTheme": "Solarized Dark",
+  "workbench.sideBar.location": "right",
+
+  "window.zoomLevel": -2
+
+  // "workbench.colorCustomizations": {
+
+  // "tab.activeBorder": "#39739d",
+
+  // "tab.activeForeground": "#fff",
+
+  // "tab.hoverBackground": "#414242",
+
+  // "tab.activeBackground": "#414242",
+
+  // "tab.border": "#000",
+
+  // "tab.activeModifiedBorder": "#ff0000",
+
+  // "activityBar.background": "#000",
+
+  // "titleBar.activeBackground": "#191919cc",
+
+  // "titleBar.activeForeground": "#ffffff",
+
+  // "titleBar.inactiveForeground": "#000000CC",
+
+  // "titleBar.inactiveBackground": "#ffc600CC",
+
+  // "sideBar.background": "#313131",
+
+  // "sideBar.foreground": "#b8c8d8",
+
+  // "list.hoverBackground": "#39739d",
+
+  // "list.hoverForeground": "#fff",
+
+  // "list.activeSelectionBackground": "#39739d",
+
+  // "editorLineNumber.activeForeground": "#41a6d9",
+
+  // "editor.background": "#3a3b3c",
+
+  // "editor.colorDecorators": true,
+
+  // "editor.lineHighlightBorder": "#37383a"
+
+  // },
+
+  "colorize.languages": ["typescript", "javascript", "css", "scss"],
+
+  "colorize.colorized_colors": ["HEXA"],
+
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "name": "Comment",
+
+        "scope": [
+          "comment",
+
+          "comment.block",
+
+          "comment.block.documentation",
+
+          "comment.line",
+
+          "comment.line.double-slash",
+
+          "punctuation.definition.comment"
+        ]
+
+        // "settings": {
+
+        // "fontStyle": "italic",
+
+        // "foreground": "#8f9092"
+
+        // }
+      }
+    ]
+  },
+
+  "breadcrumbs.filePath": "on",
+
+  "breadcrumbs.symbolPath": "on",
+
+  "window.titleBarStyle": "custom",
+
+  "editor.fontFamily": "Verdana",
+
+  "editor.fontSize": 15,
+
+  "editor.lineHeight": 18,
+
+  "editor.letterSpacing": 0.4,
+
+  "html.format.enable": true,
+
+  "html.format.preserveNewLines": true,
+
+  "files.trimTrailingWhitespace": true,
+
+  "editor.tabSize": 2,
+
+  // this isn’t really underline but we hack it to be a thicker cursor
+
+  "editor.cursorStyle": "line",
+
+  "editor.cursorWidth": 3,
+
+  // "editor.wordWrap": "on",
+
+  "editor.multiCursorModifier": "ctrlCmd",
+
+  "editor.fontWeight": "400",
+
+  "editor.colorDecorators": false,
+
+  "editor.minimap.enabled": false,
+
+  "workbench.sideBar.location": "right",
+
+  "files.associations": {
+    "*.jsx": "javascriptreact"
+  },
+
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+
+  "workbench.iconTheme": "vscode-icons",
+
+  "tabnine.experimentalAutoImports": true,
+
+  "editor.formatOnSave": true,
+
+  "editor.formatOnPaste": true,
+
+  "editor.formatOnType": true,
+
+  "diffEditor.codeLens": true,
+
+  "debug.allowBreakpointsEverywhere": true,
+
+  "debug.console.closeOnEnd": true,
+
+  "editor.mouseWheelZoom": true,
+
+  "workbench.colorTheme": "Default Dark+",
+
+  "editor.suggestSelection": "first",
+
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  "mssql.connections": [
+    {
+      "server": "{{put-server-name-here}}",
+
+      "database": "{{put-database-name-here}}",
+
+      "user": "{{put-username-here}}",
+
+      "password": "{{put-password-here}}"
+    }
+  ],
+
+  "AIOcompiler.autoSaveOnCompile": false,
+
+  "terminal.integrated.fontFamily": "monospace",
+
+  "vsicons.dontShowNewVersionMessage": true,
+
+  "auto-close-tag.disableOnLanguage": [],
+
+  "editor.codeActionsOnSave": null,
+
+  "azure.resourceFilter": null,
+  "security.allowedUNCHosts": [
+    "wsl.localhost"
+  ]
+}
